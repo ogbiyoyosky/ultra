@@ -16,4 +16,4 @@ This API showcase consists of the following parts:
 - Game Service  - responsible for crud oprations on Game
 - Publisher service - responsible for seeding the publisher db and also return the publisher
 
-This example uses a SINGLE database (MongoDB) instance for all microservices. **This is not a correct point, the correct way is to use a separate DB instance for every microservice.** I used one DB instance for all microservices to simplify this example.
+This microservice uses different  database (MongoDB) instance for each  microservices.
