@@ -4,6 +4,7 @@ This example is basically an API for some game api. It provides a possibility to
 ## Running the example with docker-compose
 Execute `cp .env.example .env && docker-compose up -d` from the root of the repository
 ## Accessing the API itself on the postman docs provided
+https://documenter.getpostman.com/view/6226738/TzRPi8d6
 - Once you launch the API it will be accessible on port 3000.
 localhost:3000/**"
 ## Launch services for integration testing (using docker-compose)
