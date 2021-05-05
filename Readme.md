@@ -1,4 +1,4 @@
-# This repository shows how you can build API with microservice architecture using nestjs
+# This repository shows a microservice and a gateway for a game service and a publisher service
 ## Features of this api
 This example is basically an API for some game api. It provides a possibility to crud on games, flushing games and applying discount
 ## Running the example with docker-compose
