@@ -7,8 +7,8 @@ Execute `cp .env.example .env && docker-compose up -d` from the root of the repo
 https://documenter.getpostman.com/view/6226738/TzRPi8d6
 - Once you launch the API it will be accessible on port 3000.
 localhost:3000/**"
-## Launch services for integration testing (using docker-compose)
-- Execute`cp .env.example .env && cp .env.test.example .env.test`
+## Launch services  (using docker-compose)
+- Execute`cp .env.example .env && 
 
 
 ## Brief architecture overview
